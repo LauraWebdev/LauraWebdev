@@ -11,7 +11,7 @@
 - Web (HTML, CSS, JS)
 - NodeJS
 - Favorite Framework: VueJS
-- **I'm "fluent" in Tailwind but try to avoid it, I personally like to write CSS, crazy, I know...
+- **I'm "fluent" in Tailwind but try to avoid it, I personally like to write CSS, crazy, I know...**
 
 #### What I love
 - 💡 Open source development (Check out [@SillyGoobersCreations/lumetra](https://github.com/SillyGoobersCreations/lumetra) made for the Godot Foundation)
