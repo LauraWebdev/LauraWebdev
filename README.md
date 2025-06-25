@@ -1,16 +1,11 @@
-## Hi there 👋
+## Hey there, I'm Laura Sofia! 👋
 
-<!--
-**LauraWebdev/LauraWebdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: she/her/they
+- 🛠️ I'm a full-stack developer, part-time gamedev and full-passionate media/brand/ui designer
+- 💻 My main tools/skills are in C#, PHP, Web, NodeJS. My favorite Framework is VueJS
+- 🌱 I've been born in 1997 and in 2008, I already developed my first websites and backends
+- 💡 Passionate open-source contributor (Check out [@SillyGoobersCreations/lumetra](https://github.com/SillyGoobersCreations/lumetra) made for the Godot Foundation)
+- 🎮 Building games and gamedev tooling for fun [@indiegesindel](https://indiegesindel.games) and [Portal 2: Community Edition](https://p2ce.org)
+- 🌐 Website/Blog: [laura.media](https://laura.media)
+- 🦋 BlueSky: [laura.media](https://bsky.app/profile/laura.media) (serious) & [taw.moe](https://bsky.app/profile/taw.moe) (silly)
+- 🤝 Always open to connect and collaborate!
