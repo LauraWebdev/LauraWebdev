@@ -6,12 +6,11 @@
 - 🌱 I've been born in 1997 and in 2008, I already developed my first websites and backends
 
 #### Toolset
-- C#
+- C# (.NET, Photino.NET & Godot)
 - PHP (mostly via Laravel)
 - Web (HTML, CSS, JS)
-- NodeJS
-- Favorite Framework: VueJS
-- **I'm "fluent" in Tailwind but try to avoid it, I personally like to write CSS, crazy, I know...**
+- NodeJS, VueJS (can work with React but will hate it)
+- **I'm "fluent" in Tailwind but try to avoid it, I like to write CSS, crazy, I know...**
 
 #### What I love
 - 💡 Open source development (Check out [@SillyGoobersCreations/lumetra](https://github.com/SillyGoobersCreations/lumetra) made for the Godot Foundation)
